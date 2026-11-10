@@ -10,6 +10,16 @@ The project focuses on three categories:
 - **Potato Late Blight**
 - **Potato Healthy**
 
+
+## Sample Dataset Images
+
+## Sample Dataset Images
+
+| Early Blight | Late Blight | Healthy |
+|---|---|---|
+| ![Early Blight](images/Potato_early_blight.JPG) | ![Late Blight](images/Potato_late_blight.JPG) | ![Healthy](images/Potato_healthy.JPG) |
+
+
 The main objective is to investigate how deep learning can be applied to agricultural image classification and compare the performance of a custom-built CNN with a pretrained MobileNetV2 model using transfer learning.
 
 An interactive dashboard was also developed using Streamlit to allow users to upload potato leaf images and view model predictions.
