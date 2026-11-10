@@ -13,8 +13,6 @@ The project focuses on three categories:
 
 ## Sample Dataset Images
 
-## Sample Dataset Images
-
 | Early Blight | Late Blight | Healthy |
 |---|---|---|
 | ![Early Blight](images/Potato_early_blight.JPG) | ![Late Blight](images/Potato_late_blight.JPG) | ![Healthy](images/Potato_healthy.JPG) |
