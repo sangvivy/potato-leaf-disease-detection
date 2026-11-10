@@ -1,0 +1,2 @@
+Model,Test Accuracy,Test Loss,Macro F1 Score,Weighted F1 Score
+MobileNetV2,0.9690402746200562,0.08954209089279175,0.952,0.9689
